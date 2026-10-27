@@ -1,0 +1,20 @@
+{
+  "name": "cse341-books",
+  "version": "1.0.0",
+  "description": "Books Web Service for CSE 341",
+  "homepage": "https://github.com/RosaPos/cse341-books#readme",
+  "bugs": {
+    "url": "https://github.com/RosaPos/cse341-books/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RosaPos/cse341-books.git"
+  },
+  "license": "ISC",
+  "author": "Rosa Posadas",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
